@@ -1,2 +1,2 @@
-# threejs-boilerplate
-webpack + babel + prettier + threejs
+# webpack-threejs-boilerplate
+webpack + babel + threejs
