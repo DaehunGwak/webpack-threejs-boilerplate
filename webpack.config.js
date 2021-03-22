@@ -1,6 +1,6 @@
 var path = require('path');
 
-var mode = 'none'; // none, development, production
+var mode = 'production'; // none, development, production
 
 module.exports = {
     mode: mode,

@@ -1,6 +1,14 @@
 {
   "presets": [
-    ["@babel/preset-env",{"targets": {"ie": 11}, "modules":"cjs"}]
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "ie": 11
+        },
+        "modules":"cjs"
+      }
+    ]
   ],
   "plugins": [
     ["@babel/plugin-transform-runtime",{"corejs":3}]
